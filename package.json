@@ -1,0 +1,15 @@
+{
+  "name": "random-things-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Cluxnei/random-things-cli.git",
+  "author": "Cluxnei <cluxnei31@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "type": "module"
+}
